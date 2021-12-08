@@ -11,9 +11,10 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 ## Directories
 
 - Layout (Layout wrapper For all pages)
-  -- Change layout from mata value of route
-  -- Key "layout"
-  -- Error of "vue/multi-word-component-names" add component name in "vue/multi-word-component-names" -> ignores (Array) in ".eslintrc.js"
+
+  - Change layout from mata value of route
+  - Key "layout"
+  - Error of "vue/multi-word-component-names" add component name in "vue/multi-word-component-names" -> ignores (Array) in ".eslintrc.js"
 
 - Pinia (store management)
-  -- [Pinia](https://pinia.esm.dev/introduction.html#basic-example)
+  - [Pinia](https://pinia.esm.dev/introduction.html#basic-example)
